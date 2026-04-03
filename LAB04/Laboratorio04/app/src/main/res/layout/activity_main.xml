@@ -1,0 +1,28 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <Button
+        android:id="@+id/btnAutoComplete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AutoCompleteTextView"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btnTimePicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TimePicker"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btnDatePicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DatePicker"/>
+</LinearLayout>
