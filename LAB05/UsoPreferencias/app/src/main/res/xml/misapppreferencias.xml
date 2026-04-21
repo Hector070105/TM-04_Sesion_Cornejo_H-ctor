@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Categoria 1">
+        <CheckBoxPreference
+            android:key="checkboxPref"
+            android:title="Checkbox"
+            android:summary="Verdadero o Falso"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Categoria 2">
+        <EditTextPreference
+            android:key="editTextPref"
+            android:title="Editor de Texto"
+            android:summary="Ingresa una cadena"
+            android:defaultValue="[Ingrese una cadena aquí]" />
+        <PreferenceScreen
+            android:key="secondPrefScreenPref"
+            android:title="Segunda pantalla de preferencias"
+            android:summary="Click aquí para ir a la Segunda pantalla">
+            <EditTextPreference
+                android:key="secondEditTextPref"
+                android:title="Edit Text (segunda Pantalla)"
+                android:summary="Ingresa una cadena" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>
