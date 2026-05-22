@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "998675763203",
+    "firebase_url": "https://repositoriofb-5ac2e-default-rtdb.firebaseio.com",
+    "project_id": "repositoriofb-5ac2e",
+    "storage_bucket": "repositoriofb-5ac2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998675763203:android:31599f3e7f9f0bda313e36",
+        "android_client_info": {
+          "package_name": "com.ucsm.repositoriofb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDR3KFC86Zmge-vgKUVE0AFDyys4dQb8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

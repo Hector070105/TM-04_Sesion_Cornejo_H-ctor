@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "588198636985",
+    "firebase_url": "https://repositoriofbej-default-rtdb.firebaseio.com",
+    "project_id": "repositoriofbej",
+    "storage_bucket": "repositoriofbej.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588198636985:android:2909fbfa37fd600f361a68",
+        "android_client_info": {
+          "package_name": "com.ucsm.repositoriofbej"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkpiQNcwcvk0lJFotESEnFjE9OnKkrwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
