@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "185491985372",
+    "project_id": "autenticacion-f90fb",
+    "storage_bucket": "autenticacion-f90fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185491985372:android:754e2990958d8a739ef519",
+        "android_client_info": {
+          "package_name": "com.ucsm.autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185491985372-51u3ih0q7edi7pscs42nvnvhg9bt4pra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuwpWuVJuTlT13WgIgrHtbpWZwDXsLFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185491985372-51u3ih0q7edi7pscs42nvnvhg9bt4pra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185491985372:android:c2ab28918e58bb859ef519",
+        "android_client_info": {
+          "package_name": "com.ucsm.bitacora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185491985372-51u3ih0q7edi7pscs42nvnvhg9bt4pra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuwpWuVJuTlT13WgIgrHtbpWZwDXsLFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185491985372-51u3ih0q7edi7pscs42nvnvhg9bt4pra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
